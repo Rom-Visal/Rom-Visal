@@ -33,9 +33,6 @@ Practice project focused on CRUD operations, validation, and error handling.
 
 More projects will be added as I continue learning.
 
-## GitHub stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rom-Visal&show_icons=true)
-
 ## Contact 
 Email: salbongvi@gmail.com
 
